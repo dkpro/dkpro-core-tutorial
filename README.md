@@ -1,2 +1,2 @@
 # dkpro-core-tutorial
-Hands on tutorial on dkpro core
+Hands-on tutorial on DKPro Core.
