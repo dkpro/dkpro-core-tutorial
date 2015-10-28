@@ -10,3 +10,4 @@ In order to run the code from this tutorial, you need to have the following inst
 * GitHub: https://help.github.com/articles/set-up-git/
 * Internet connection
 
+The loading of the dependencies might take some time, so be prepared to spend some minutes waiting eclipse to update the maven preferences of your project.
