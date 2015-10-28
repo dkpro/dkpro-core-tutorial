@@ -1,4 +1,4 @@
-# DKPRo Core tutorial
+# DKPRo Core Tutorial
 This repository contains the material regarding the hands-on tutorial on DKPro Core: https://dkpro.github.io/dkpro-core/
 
 ## System requirements
@@ -11,3 +11,5 @@ In order to run the code from this tutorial, you need to have the following inst
 * Internet connection
 
 The loading of the dependencies might take some time, so be prepared to spend some minutes waiting eclipse to update the maven preferences of your project.
+
+## Slides
