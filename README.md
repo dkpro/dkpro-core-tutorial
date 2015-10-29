@@ -1,4 +1,4 @@
-# DKPRo Core Tutorial
+# DKPro Core Tutorial
 This repository contains the material regarding the hands-on tutorial on DKPro Core: https://dkpro.github.io/dkpro-core/
 
 ## System requirements
