@@ -16,8 +16,8 @@ The loading of the dependencies might take some time, so be prepared to spend so
 
 A video tutorial on running DKPro Core using groovy. Two important points about this video-tutorial since it is out of date: 1. DKPro Core is not on GitHub, not on google code anymore; 2. The newest version is 1.7.0, not 1.6.2.
 
-[![ScreenShot](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://youtu.be/vt5fpE0bzSY)
+[![ScreenShot](http://img.youtube.com/vi/RnbFaKZYho0/1.jpg)](https://youtu.be/RnbFaKZYho0?list=PLENWjbYveblcRX-mAt2PwimyVDDSIORny)
 
-https://youtu.be/RnbFaKZYho0?list=PLENWjbYveblcRX-mAt2PwimyVDDSIORny
+<iframe width="854" height="480" src="https://www.youtube.com/embed/RnbFaKZYho0?list=PLENWjbYveblcRX-mAt2PwimyVDDSIORny" frameborder="0" allowfullscreen></iframe>
 
 ## Slides
