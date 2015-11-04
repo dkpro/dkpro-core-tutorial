@@ -1,0 +1,12 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>dkpro-core-tutorial</groupId>
+  <artifactId>h_da-tutorial</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>DKPro Core Tutorial</name>
+  <description>This is the running code for the DKPro Core Tutorial given by UKP Lab, Technische Universität Darmstadt.</description>
+  	<packaging>pom</packaging>
+	<modules>
+		<module>h_da-tutorial-types</module>
+	</modules>
+</project>

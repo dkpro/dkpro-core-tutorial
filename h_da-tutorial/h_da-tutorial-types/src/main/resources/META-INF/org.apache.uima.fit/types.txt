@@ -1,0 +1,1 @@
+classpath*:de/tudarmstadt/ukp/tutorial/types/typeSystemDescriptor.xml
