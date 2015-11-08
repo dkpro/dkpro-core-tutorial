@@ -8,5 +8,6 @@
   	<packaging>pom</packaging>
 	<modules>
 		<module>h_da-tutorial-types</module>
+		<module>h_da-tutorial-pipeline</module>
 	</modules>
 </project>
