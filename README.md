@@ -1,5 +1,6 @@
 # DKPro Core Tutorial
 This repository contains the material regarding the hands-on tutorial on DKPro Core: https://dkpro.github.io/dkpro-core/
+All the material presented here is an adaptation from the GSCL tutorial given in 2013 at the Technische Universität Darmstadt. The original material can be obtained here: https://code.google.com/p/dkpro-tutorials/wiki/GSCL2013
 
 ## System requirements
 In order to run the code from this tutorial, you need to have the following installed in your workstation:
