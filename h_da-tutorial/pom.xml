@@ -10,5 +10,6 @@
 		<module>h_da-tutorial-types</module>
 		<module>h_da-tutorial-pipeline</module>
 		<module>h_da-tutorial-dkpro</module>
+		<module>h_da-tutorial-pos-ensemble</module>
 	</modules>
 </project>
