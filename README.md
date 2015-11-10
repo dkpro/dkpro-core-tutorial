@@ -28,3 +28,7 @@ A video tutorial on running DKPro Core using groovy. Two important points about 
 ## Slides
 
 The slides for the tutorial can be downloaded here: [pptx](slides/hochschule_darmstadt_dkpro_core_tutorial.pptx) [pdf](slides/hochschule_darmstadt_dkpro_core_tutorial.pdf)
+
+## Further links
+
+* [m2eclipse book (Copyright © 2010 Sonatype, Inc.)](http://books.sonatype.com/m2eclipse-book/reference/)
