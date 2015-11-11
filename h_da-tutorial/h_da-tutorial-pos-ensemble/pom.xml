@@ -57,5 +57,9 @@
 			<artifactId>clearnlp-dictionary</artifactId>
 			<version>1.0</version>
 		</dependency>
+		<dependency>
+			<groupId>de.tudarmstadt.ukp.dkpro.core</groupId>
+			<artifactId>de.tudarmstadt.ukp.dkpro.core.berkeleyparser-gpl</artifactId>
+		</dependency>
 	</dependencies>
 </project>
