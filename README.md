@@ -27,7 +27,7 @@ A video tutorial on running DKPro Core using groovy. Two important points about 
 
 ## Slides
 
-The slides for the tutorial can be downloaded here: [pptx](slides/hochschule_darmstadt_dkpro_core_tutorial.pptx) [pdf](slides/hochschule_darmstadt_dkpro_core_tutorial.pdf)
+The slides for the tutorial can be downloaded here: [pptx](slides/aiphes_dkpro_core_tutorial.pptx) [pdf](slides/aiphes_dkpro_core_tutorial.pdf)
 
 ## Further links
 
