@@ -32,3 +32,4 @@ The slides for the tutorial can be downloaded here: [pptx](slides/aiphes_dkpro_c
 ## Further links
 
 * [m2eclipse book (Copyright © 2010 Sonatype, Inc.)](http://books.sonatype.com/m2eclipse-book/reference/)
+* [DKPro Core Examples](https://github.com/dkpro/dkpro-core-examples)
